@@ -110,3 +110,5 @@ Modify SERVER_IP in ChatClient.java if running on a different network.
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/05dd4ec6-bee0-4bb3-b8d1-4ee849c2ad58)
+
